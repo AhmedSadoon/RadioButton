@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+    <string name="msg">Select</string>
+
+    <string name="IT">IT</string>
+    <string name="Sales">Sales</string>
+    <string name="HR">HR</string>
+    <string name="NPO">NPO</string>
+</resources>
